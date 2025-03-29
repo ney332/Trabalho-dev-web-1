@@ -14,6 +14,7 @@ body{
     height: 80px;
     background-color: #1e1e1e;
     color: grey;
+    position: fixed;
 }
 .barra_nav{
     float: right;
@@ -72,6 +73,74 @@ a:hover{
     color: white;
     border-radius: 20px;
 }
+.itens-content{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 120px;
+    height: auto;
+}
+.boxText{
+    width: 300px;
+    height: 200px;
+    color: grey;
+    word-break: break-all;
+    float: left;
+    margin-right: 100px;
+
+}
+.img{
+    width: 280px;
+    height: 260px;
+    background-color: #520752;
+    float: right;
+    border-radius: 20px;
+}
+.content-2{
+    width: 960px;
+    height: 500px;
+    float: left;
+    background-color: #1e1e1e;
+}
+.box{
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+.box1,
+.box2,
+.box3{
+    width: 230px;
+    height: 280px;
+    background-color: #520752;
+    margin-right: 50px;
+    border-radius: 30px;
+}
+.botao{
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    background-color: #520752;
+}
+.botao:hover{
+        box-shadow: 0px 5px 15px  #3f023f;
+
+}
+h2{
+    margin: 0;
+    text-align: center;
+    margin-top: 30px;
+    color: grey;
+}
+
+
 
 
 
