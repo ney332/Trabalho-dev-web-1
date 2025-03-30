@@ -139,6 +139,27 @@ h2{
     margin-top: 30px;
     color: grey;
 }
+/*redes*/
+.containe{
+width: 960px;
+margin: auto;
+height: 100%;
+}
+
+.redesContent{
+    margin:auto;
+    width: 500px;
+    height: 500px;
+    border: 1px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 20%;
+    border-radius: 40px;
+    box-shadow: 2px 3px 5px 5px #383438 ;
+
+}
 
 
 
