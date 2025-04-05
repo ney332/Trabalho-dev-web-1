@@ -61,7 +61,7 @@ margin: auto;
     border-radius: 20px;
 }
 
-a{
+.topo a{
     text-decoration: none;
     font-size: 20px; 
     margin-right: 40px ;
@@ -134,9 +134,7 @@ a{
 
 }
 h2{
-    margin: 0;
     text-align: center;
-    margin-top: 30px;
     color: grey;
 }
 /*redes*/
@@ -170,8 +168,19 @@ height: 100%;
     color: white;
     box-shadow: rgb(0, 119, 181) 0px 1px 8px 1px;
 }
-
-
-
-
-
+.Github:hover{
+    color: white;
+    box-shadow: rgb(95, 100, 102) 0px 1px 8px 1px;
+}
+.Instagram:hover{
+    color: white;
+    box-shadow: rgb(100, 9, 65) 0px 1px 8px 1px;
+}
+.Facebook:hover{
+    color: white;
+    box-shadow: rgb(0, 33, 181) 0px 1px 8px 1px;
+}
+.Whatsapp:hover{
+    color: white;
+    box-shadow: rgb(38, 224, 14) 0px 1px 8px 1px;
+}
