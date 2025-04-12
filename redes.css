@@ -1,0 +1,57 @@
+
+html{
+    background-color: #1e1e1e;
+    font-style: normal;
+    font-weight: 2;
+    font-family: "Inter", Calibri, 'Trebuchet MS', sans-serif;
+}
+.topo{
+    margin: auto;
+    width: 960px;
+    height: 80px;
+    background-color: #1e1e1e;
+    color: grey;
+}
+.barra_nav{
+    float: right;
+    margin-top: 10px;
+    text-decoration: none;
+    margin-right: 10px;
+}
+    .redesContent{
+        margin:auto;
+        width: 500px;
+        height: 500px;
+        border: 1px solid grey;
+        border-radius: 40px;
+        box-shadow: 0px 2px 8px 5px #333 ;
+    }
+    #card{
+        width: 450px;
+        height: 200px;
+        border: 1px solid grey;
+        margin-bottom: 10px;
+        border-radius: 30px;
+    }
+
+    .linkedin:hover{
+        color: white;
+        box-shadow: rgb(0, 119, 181) 0px 1px 8px 1px;
+    }
+    .Github:hover{
+        color: white;
+        box-shadow: rgb(95, 100, 102) 0px 1px 8px 1px;
+    }
+    .Instagram:hover{
+        color: white;
+        box-shadow: rgb(100, 9, 65) 0px 1px 8px 1px;
+    }
+    .Facebook:hover{
+        color: white;
+        box-shadow: rgb(0, 33, 181) 0px 1px 8px 1px;
+    }
+    .Whatsapp:hover{
+        color: white;
+        box-shadow: rgb(38, 224, 14) 0px 1px 8px 1px;
+    }
+    
