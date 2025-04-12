@@ -25,32 +25,37 @@ html{
         border: 1px solid grey;
         border-radius: 40px;
         box-shadow: 0px 2px 8px 5px #333 ;
+        padding: 10px;
     }
     #card{
-        width: 450px;
-        height: 200px;
+        width: 500px;
+        height: 95px;
+        margin-bottom: 3px;
         border: 1px solid grey;
-        margin-bottom: 10px;
         border-radius: 30px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        
     }
 
-    .linkedin:hover{
+    .linkedin a:hover{
         color: white;
         box-shadow: rgb(0, 119, 181) 0px 1px 8px 1px;
     }
-    .Github:hover{
+    .Github a:hover{
         color: white;
         box-shadow: rgb(95, 100, 102) 0px 1px 8px 1px;
     }
-    .Instagram:hover{
+    .Instagram a:hover{
         color: white;
         box-shadow: rgb(100, 9, 65) 0px 1px 8px 1px;
     }
-    .Facebook:hover{
+    .Facebook a:hover{
         color: white;
         box-shadow: rgb(0, 33, 181) 0px 1px 8px 1px;
     }
-    .Whatsapp:hover{
+    .Whatsapp a:hover{
         color: white;
         box-shadow: rgb(38, 224, 14) 0px 1px 8px 1px;
     }
