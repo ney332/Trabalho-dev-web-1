@@ -165,49 +165,12 @@ h2{
     text-align: center;
     color: grey;
 }
-/*redes*/
-.container-2{
-width: 960px;
-margin: auto;
-height: 100%;
-}
+/*sobre*/
 
-.redesContent{
-    margin:auto;
-    width: 500px;
-    height: 500px;
-    border: 1px solid grey;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: static;
-    border-radius: 40px;
-    box-shadow: 0px 2px 8px 5px #333 ;
-}
-#card{
-    width: 450px;
-    height: 80px;
-    border: 1px solid grey;
-    margin-bottom: 10px;
-    border-radius: 30px;
-}
-.linkedin:hover{
-    color: white;
-    box-shadow: rgb(0, 119, 181) 0px 1px 8px 1px;
-}
-.Github:hover{
-    color: white;
-    box-shadow: rgb(95, 100, 102) 0px 1px 8px 1px;
-}
-.Instagram:hover{
-    color: white;
-    box-shadow: rgb(100, 9, 65) 0px 1px 8px 1px;
-}
-.Facebook:hover{
-    color: white;
-    box-shadow: rgb(0, 33, 181) 0px 1px 8px 1px;
-}
-.Whatsapp:hover{
-    color: white;
-    box-shadow: rgb(38, 224, 14) 0px 1px 8px 1px;
+.img-hobbie img{
+    width: 380px;
+    height: 400px;
+    float: left;
+    margin-right: 10px;
+    line-height: 10px;
 }
