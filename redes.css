@@ -1,7 +1,6 @@
 
 html{
     background-color: #1e1e1e;
-    font-style: normal;
     font-weight: 2;
     font-family: "Inter", Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -17,6 +16,18 @@ html{
     margin-top: 10px;
     text-decoration: none;
     margin-right: 10px;
+}
+.topo a{
+    text-decoration: none;
+    font-size: 20px; 
+    margin-right: 40px ;
+    color: grey;
+}
+.topo a:hover{
+    background-color: #520752;
+    padding: 5 20px;
+    color: white;
+    border-radius: 20px;
 }
     .redesContent{
         margin:auto;
@@ -36,7 +47,8 @@ html{
         justify-content: center;
         align-items: center;
         display: flex;
-        
+        text-decoration: none;
+        color: grey;
     }
 
     .linkedin a:hover{
