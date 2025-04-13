@@ -104,8 +104,8 @@ h1{
     width: 380px;
     height: 400px;
     float: left;
-    margin-right: 10px;
-    line-height: 10px;
+    margin-right: 20px;
+    margin: 10px;
 }
 
 .img-hobbie-2 img{
