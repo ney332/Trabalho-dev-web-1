@@ -7,9 +7,13 @@ html{
 
 body{
     margin: 0;
+    color: grey;
 }
-body,footer{
-    min-height: 100%;
+footer{
+    margin: auto;
+    width: 960px;
+    height: 5px;
+    background-color: #262626;
 }
 .topo{
     margin: auto;
