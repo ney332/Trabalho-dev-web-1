@@ -46,15 +46,12 @@
 
 @media screen and (max-width: 768px) {
    body{
-    display: grid;
-    grid-template-areas:
-    "topo"
-    "banner"
-    "content"
-    "img";
+    flex-direction: column;
+    height: auto;
 
    }
-   
+
+
     .topo {
         height: auto;
         position: relative;

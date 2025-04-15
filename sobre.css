@@ -1,0 +1,119 @@
+html{
+    background-color: #1e1e1e;
+    font-style: normal;
+    font-weight: 2;
+    font-family: "Inter", Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    margin: 0;
+    color: grey;
+}
+footer{
+    margin: auto;
+    width: 960px;
+    height: 5px;
+    background-color: #262626;
+}
+.topo{
+    margin: auto;
+    width: 960px;
+    height: 80px;
+    background-color: #1e1e1e;
+    color: grey;
+    position: fixed;
+}
+.barra_nav{
+    float: right;
+    margin-top: 10px;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.container{
+display: table;
+width: 960px;
+margin: auto;
+}
+
+.banner{
+    float: left;
+    margin: auto;
+    width: 960px;
+    height: 500px;
+    background-color: #1e1e1e;
+    margin-top: 70px;
+}
+.content{
+    width: 960px;
+    height: 500px;
+    background-color: #262626;
+    float: left;
+}
+
+
+.topo a{
+    text-decoration: none;
+    font-size: 20px; 
+    margin-right: 40px ;
+    color: grey;
+}
+.topo a:hover{
+    background-color: #520752;
+    padding: 5 20px;
+    color: white;
+    border-radius: 20px;
+}
+.itens-content{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 120px;
+    height: auto;
+}
+.boxText{
+    width: 300px;
+    height: 200px;
+    color: grey;
+    word-break: break-all;
+    float: left;
+    margin-right: 100px;
+    text-align: justify;
+    font-size: 15px;
+
+}
+.img{
+    width: 280px;
+    height: 300px;
+    float: right;
+    border-radius: 20px;
+}
+.content-2{
+    width: 960px;
+    height: 500px;
+    margin: auto;
+    background-color: #1e1e1e;
+}
+
+h1{
+    text-align: center;
+    color: grey;
+}
+/*sobre*/
+
+.img-hobbie img{
+    width: 380px;
+    height: 400px;
+    float: left;
+    margin-right: 20px;
+    margin: 10px;
+}
+
+.img-hobbie-2 img{
+    width: 370px;
+    height: 390px;
+    float: right;
+    margin: 20px;
+}
+p{
+    margin-top: 150px;
+}

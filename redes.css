@@ -1,0 +1,74 @@
+
+html{
+    background-color: #1e1e1e;
+    font-weight: 2;
+    font-family: "Inter", Calibri, 'Trebuchet MS', sans-serif;
+}
+.topo{
+    margin: auto;
+    width: 960px;
+    height: 80px;
+    background-color: #1e1e1e;
+    color: grey;
+}
+.barra_nav{
+    float: right;
+    margin-top: 10px;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.topo a{
+    text-decoration: none;
+    font-size: 20px; 
+    margin-right: 40px ;
+    color: grey;
+}
+.topo a:hover{
+    background-color: #520752;
+    padding: 5 20px;
+    color: white;
+    border-radius: 20px;
+}
+    .redesContent{
+        margin:auto;
+        width: 500px;
+        height: 500px;
+        border: 1px solid grey;
+        border-radius: 40px;
+        box-shadow: 0px 2px 8px 5px #333 ;
+        padding: 10px;
+    }
+    #card{
+        width: 500px;
+        height: 95px;
+        margin-bottom: 3px;
+        border: 1px solid grey;
+        border-radius: 30px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        text-decoration: none;
+        color: grey;
+    }
+
+    .linkedin a:hover{
+        color: white;
+        box-shadow: rgb(0, 119, 181) 0px 1px 8px 1px;
+    }
+    .Github a:hover{
+        color: white;
+        box-shadow: rgb(95, 100, 102) 0px 1px 8px 1px;
+    }
+    .Instagram a:hover{
+        color: white;
+        box-shadow: rgb(100, 9, 65) 0px 1px 8px 1px;
+    }
+    .Facebook a:hover{
+        color: white;
+        box-shadow: rgb(0, 33, 181) 0px 1px 8px 1px;
+    }
+    .Whatsapp a:hover{
+        color: white;
+        box-shadow: rgb(38, 224, 14) 0px 1px 8px 1px;
+    }
+    
