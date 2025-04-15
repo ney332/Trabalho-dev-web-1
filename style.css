@@ -6,14 +6,9 @@ html{
 }
 
 body{
+    flex-direction: column;
     margin: 0;
     color: grey;
-}
-footer{
-    margin: auto;
-    width: 960px;
-    height: 5px;
-    background-color: #7a7474;
 }
 .topo{
     margin: auto;
@@ -30,9 +25,9 @@ footer{
     margin-right: 10px;
 }
 .container{
-display: table;
-width: 960px;
-margin: auto;
+    display: table;
+    width: 960px;
+    margin: auto;
 }
 
 .banner{
