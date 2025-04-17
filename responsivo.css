@@ -61,6 +61,7 @@
     float: left;
    }
 
+
     .topo {
         height: auto;
         position: relative;
@@ -81,6 +82,7 @@
         float: left;
         margin: 10px auto;
         width: 90%;
+        margin-bottom: 10px;
     }
 
     a {
