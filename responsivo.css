@@ -4,10 +4,14 @@
     .banner,
     .content,
     .content-2,
-    .containe 
-    footer{
+    .containe{
         width: 90%;
         flex-direction: column;
+    }
+    footer{
+        width: 100%;
+        float: none;
+        display: block;
     }
 
     .barra_nav {
