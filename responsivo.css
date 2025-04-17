@@ -10,8 +10,7 @@
     }
     footer{
         width: 100%;
-        float: none;
-        display: block;
+        float: left;
     }
 
     .barra_nav {
