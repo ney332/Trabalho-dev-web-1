@@ -55,7 +55,11 @@
     height: auto;
 
    }
-
+    
+   footer{
+    width: 100%;
+    float: none;
+   }
 
     .topo {
         height: auto;
