@@ -9,7 +9,7 @@
         flex-direction: column;
     }
     footer{
-       max-width: 1024px;
+        width: 1024px;
         float: left;
     }
 
