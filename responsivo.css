@@ -59,6 +59,7 @@
    footer{
     width: 768px;
     float: left;
+    justify-content: center;
    }
 
     .topo {
