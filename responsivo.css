@@ -4,7 +4,8 @@
     .banner,
     .content,
     .content-2,
-    .containe {
+    .containe 
+    footer{
         width: 90%;
         flex-direction: column;
     }
