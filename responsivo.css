@@ -5,12 +5,11 @@
     .content,
     .content-2,
     .containe{
-        width: 90%;
+        width: 50%;
         flex-direction: column;
     }
     footer{
-        width: 90%;
-        float: none;
+        float: left;
     }
 
     .barra_nav {
