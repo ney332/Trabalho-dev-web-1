@@ -9,7 +9,7 @@
         flex-direction: column;
     }
     footer{
-        float: left;
+        width: 50%;
     }
 
     .barra_nav {
