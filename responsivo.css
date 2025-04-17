@@ -57,6 +57,8 @@
    }
     
    footer{
+    text-align: center;
+    margin: auto;
     width: 768px;
     float: left;
     justify-content: center;
