@@ -10,6 +10,7 @@
     }
     footer{
         float: left;
+        width: auto;
     }
 
     .barra_nav {
