@@ -4,9 +4,13 @@
     .banner,
     .content,
     .content-2,
-    .containe {
+    .containe{
         width: 90%;
         flex-direction: column;
+    }
+    footer{
+        float: left;
+        width: auto;
     }
 
     .barra_nav {
@@ -50,11 +54,16 @@
     height: auto;
 
    }
+    
+   footer{
+    width: 768px;
+    float: left;
+   }
 
 
     .topo {
         height: auto;
-        position: static;
+        position: relative;
     }
 
     .title {

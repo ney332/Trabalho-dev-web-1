@@ -9,12 +9,7 @@ body{
     margin: 0;
     color: grey;
 }
-footer{
-    margin: auto;
-    width: 960px;
-    height: 5px;
-    background-color: #262626;
-}
+
 .topo{
     margin: auto;
     width: 960px;
