@@ -112,3 +112,71 @@ h1{
 p{
     margin-top: 150px;
 }
+.menu{
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    padding: 20px;
+    z-index: 1001;
+  }
+  
+  .menu span {
+    background: grey;
+    height: 3px;
+    width: 25px;
+    margin: 4px 0;
+    border-radius: 2px;
+    transition: 0.3s;
+  }
+  
+  @media (max-width: 760px) {
+    .topo {
+      width: 100%;
+      height: auto;
+      position: fixed;
+      padding: 10px;
+    }
+  
+    .menu {
+      display: flex;
+    }
+  
+    .barra_nav {
+      display: none;
+      flex-direction: column;
+      background-color: #1e1e1e;
+      position: absolute;
+      right: 10px;
+      top: 70px;
+      width: 200px;
+      border-radius: 10px;
+      padding: 10px;
+      z-index: 1000;
+    }
+  
+    .barra_nav a {
+      margin: 10px 0;
+      font-size: 18px;
+    }
+  
+    .barra_nav.active {
+      display: flex;
+    }
+  
+    .container,
+    .banner,
+    .content,
+    .content-2 {
+      width: 100%;
+    }
+    .boxText{
+        float: none;
+    }
+  
+  
+  
+
+  
+
+  }
+  
